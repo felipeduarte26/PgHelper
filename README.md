@@ -1,5 +1,5 @@
 # PgHelper
-Lib para Conexão com o Banco de Dados PostgreSql
+Minha Lib para Conexão com o Banco de Dados PostgreSql
 
 <ul>
   <li>Funções automatizadas para realização de Scripts Básicos (Insert, Update, Delete, Select)</li>
